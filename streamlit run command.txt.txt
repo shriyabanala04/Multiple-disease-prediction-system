@@ -1,0 +1,11 @@
+streamlit run "C:\Users\sravya\OneDrive\Desktop\Multiple Disease Prediction System\app.py"
+
+
+
+
+
+
+---------------------------------FOR FIRST REVIEW------------------
+
+
+streamlit run "C:\Users\sravya\OneDrive\Desktop\Multiple Disease Prediction System\1.py"
